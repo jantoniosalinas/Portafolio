@@ -15,8 +15,8 @@ export default class hero extends Component {
                             and learn more <a className='smoothscroll' href='#about'>about me</a>.
                             </h3>
                             <div className='s-hero__content-social'>
-                                <a href='#0'><i className='fab fa-instagram' aria-hidden='true'></i></a>
-                                <a href='#0'><i className='fab fa-linkedin' aria-hidden='true'></i></a>
+                                <a href='#0'><i className='fab fa-instagram'></i></a>
+                                <a href='#0'><i className='fab fa-linkedin'></i></a>
                             </div>
                         </div>
                     </div>

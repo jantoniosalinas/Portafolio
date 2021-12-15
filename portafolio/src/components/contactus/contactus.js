@@ -44,8 +44,6 @@ export default class contactus extends Component {
                         </div>
                     </div>
                 </div>
-                
-                
             </section>
         )
     }

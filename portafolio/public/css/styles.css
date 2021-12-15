@@ -61,10 +61,6 @@
  * # portfolio
  *      ## portfolio list
  *      ## modal popup
- * # CTA
- * # testimonials
- *      ## swiper style overrides
- *      ## testimonial slider 
  * # contact
  *      ## contact block
  * # footer
@@ -618,7 +614,8 @@ body {
     -moz-font-smoothing: grayscale;
     -moz-osx-font-smoothing: grayscale;
     -webkit-font-smoothing: antialiased;
-    -webkit-overflow-scrolling: touch;
+    -webkit-overflo
+    scrolling: touch;
     -webkit-text-size-adjust: none;
 }
 
@@ -3796,7 +3793,7 @@ input[type="button"].btn--primary:focus {
     --color-border: var(--color-gray-16);
     background-color: var(--color-gray-17);
     padding-top: calc(2* var(--space));
-    padding-bottom: var(--vspace-2);
+    padding-bottom: var(--vspace-0_25);
     color: rgba(255, 255, 255, 0.4);
 }
 
@@ -3813,7 +3810,8 @@ input[type="button"].btn--primary:focus {
 }
 
 .s-about__content-bottom {
-    margin-top: var(--vspace-2);
+    margin-top: var(--vspace-0_25);
+    margin-bottom: 0;
 }
 
 .s-about__content-bottom a {

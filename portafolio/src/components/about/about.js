@@ -11,23 +11,16 @@ export default class aboutMe extends Component {
                     <div className='column large-9 tab-12 s-about__content'>
                         <h3>About Me</h3>
                         <p>
-                        I am an honest and responsible person, who always seeks to get the best of himself
+                        I'm an honest and responsible person, who always seeks to get the best of himself
                         and of the work teams where he is. I like to learn from all my colleagues and do my
                         best to bring each of the projects in which I have the opportunity to participate 
                         to a successful conclusion.
                         </p>
+                        <p>
+                        I'm autodidact, I like the technological challenges because I learn a lot of them,
+                        I like to share knowledge in this way you learn more and help people's professional growth. 
+                        </p>
                         <hr />
-                        <div className='row s-about__content-bottom'>
-                            <div className='column w-1000-stack'>
-                                <h3>Contact Details</h3>
-                                <p>
-                                José Antonio Salinas Ochoa <br />
-                                Puebla, Pue. México<br />
-                                <a href='tel:+2222385268'>+222 238 5268</a> <br />
-                                <a href='mailto:jaso.salinas.ochoa@gmail.com'>jaso.salinas.ochoa@gmail.com</a>
-                                </p>
-                            </div>
-                        </div>
                         <div className='column folio-item'>
                             <div className='column large tab-12'>
                                     <a href='#resume' className='s-hero__scroll-link smoothscroll'>

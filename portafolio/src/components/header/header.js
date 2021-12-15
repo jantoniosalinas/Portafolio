@@ -4,11 +4,11 @@ export default class header extends Component {
     render() {
         return (
             
-            <header className='s-header'>
+            <header id='home' className='s-header'>
                 <div id='top' className='row s-header__nav-wrap'>
                     <nav id='nav-wrap' className='s-header__nav'>
                         <ul id='nav' className='nav'>
-                            <li className='current'><a className='s-header.scrolling' href='#hero'>Home</a></li>
+                            <li className='current'><a className='s-header.scrolling' href='#home'>Home</a></li>
                             <li><a className='smoothscroll' href='#about'>About</a></li>
                             <li><a className='smoothscroll' href='#resume'>Resume</a></li>
                             <li><a className='smoothscroll' href='#portfolio'>Works</a></li>

@@ -7,8 +7,8 @@ export default class footer extends Component {
                 <div className='row'>
                     <div className='column large-4 medium-6 w-1000-stack s-footer__social-block'>
                         <ul className='s-footer__social'>
-                            <li><a href='https://www.instagram.com/jasosalinas/'><i className='fab fa-instagram' aria-hidden='true'></i></a></li>
-                            <li><a href='https://www.linkedin.com/in/josé-antonio-salinas-ochoa-95567855'><i className='fab fa-linkedin-in' aria-hidden='true'></i></a></li>
+                            <li><a href='https://www.instagram.com/jasosalinas/'><i className='fab fa-instagram'></i></a></li>
+                            <li><a href='https://www.linkedin.com/in/josé-antonio-salinas-ochoa-95567855'><i className='fab fa-linkedin-in'></i></a></li>
                         </ul>
                     </div>
 
@@ -30,11 +30,3 @@ export default class footer extends Component {
         )
     }
 }
-/*
-                <div className='ss-go-top'>
-                    <a href='#hero' className='smoothscroll' title='Back to Top'><
-                            <svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'><path d='M6 4h12v2H6zm5 10v6h2v-6h5l-6-6-6 6z' /></svg>
-                    </a>
-                </div>
-
-                */

@@ -16,8 +16,8 @@ export default class portfolio extends Component {
                 <div className='column folio-item'>
                     <div className='column large tab-12'>
                         <h3 className='section-header-allcaps'>Landing Page</h3>
-                    </div>
-                    <a href='https://jantoniosalinas.github.io/JAntonio_Salinas_Ochoa.github.io' className='folio-item__thumb'>
+                    </div>                  
+                    <a href='https://jantoniosalinas.github.io/JAntonio_Salinas_Ochoa.github.io/' target='_blank' rel='noreferrer' className='folio-item__thumb'>
                         <img src='images/portfolio/T-DanceAcademy.png' alt='T-DanceAcademy' />
                     </a>
                     <h8>Using
@@ -30,7 +30,7 @@ export default class portfolio extends Component {
                     <div className='column large tab-12'>
                         <h3 className='section-header-allcaps'>CRUD Application</h3>
                     </div>
-                    <a href='https://jantoniosalinas.github.io/Proyecto2-CRUD.github.io/' className='folio-item__thumb'>
+                    <a href='https://jantoniosalinas.github.io/Proyecto2-CRUD.github.io/' target='_blank' rel='noreferrer' className='folio-item__thumb'>
                         <img src='images/portfolio/CRUD.jpg' alt='CRUD' />
                     </a>
                     <h8>Using
@@ -46,7 +46,7 @@ export default class portfolio extends Component {
                     <div className='column large tab-12'>
                         <h3 className='section-header-allcaps'>Dashboard</h3>
                     </div>
-                    <a href='https://equipo2-ucamp.github.io/dashboardequipo2.github.io/' className='folio-item__thumb'>
+                    <a href='https://equipo2-ucamp.github.io/dashboardequipo2.github.io/' target='_blank' rel='noreferrer' className='folio-item__thumb'>
                         <img src='images/portfolio/MC.jpg' alt='Dashboard' />
                     </a>
                     <h8>Using
@@ -63,7 +63,7 @@ export default class portfolio extends Component {
                     <div className='column large tab-12'>
                         <h3 className='section-header-allcaps'>Restaurante App</h3>
                     </div>
-                    <a href='https://determined-shaw-761fc3.netlify.app/' className='folio-item__thumb'>
+                    <a href='https://determined-shaw-761fc3.netlify.app/' target='_blank' rel='noreferrer' className='folio-item__thumb'>
                         <img src='images/portfolio/Restaurante.jpg' alt='Restaurante' />
                     </a>
                     <h8>Using
@@ -81,7 +81,7 @@ export default class portfolio extends Component {
                     <div className='column large tab-12'>
                         <h3 className='section-header-allcaps'>Shopping Cart</h3>
                     </div>
-                    <a href='https://awesome-fermat-e7e258.netlify.app/' className='folio-item__thumb'>
+                    <a href='https://awesome-fermat-e7e258.netlify.app/' target='_blank' rel='noreferrer' className='folio-item__thumb'>
                         <img src='images/portfolio/ShoppingCart.png' 
                              width='600' height='200'
                              alt='ShoppingCart' />
